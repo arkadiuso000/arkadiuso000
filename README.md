@@ -20,6 +20,7 @@ You can connect with me through:
 
 - GitHub: [@arkadiuso000](https://github.com/arkadiuso000)
 - Email: arkadiusz.mlyn@icloud.com
+- LinkedIn: www.linkedin.com/in/arkadiusz-mlynarczyk
 
 Feel free to drop me a message if you'd like to chat, collaborate, or simply share your thoughts. Let's connect and make the most out of our shared passion for technology and innovation!
 
