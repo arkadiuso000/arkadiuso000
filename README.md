@@ -4,7 +4,7 @@ Hello there! I'm Arek, and I'm excited to share a little about myself with you.
 
 ## 👀 About Me
 
-I come from the beautiful country of Poland. Currently, I'm a student of Computer Science at Lodz University of Technology, where I'm following my passion for technology and its applications. I'm very interested in exploring new technologies, especially things like wearables and the Internet of Things (IoT). Besides technology, I'm also enthusiastic about promoting a healthy lifestyle and I have a strong interest in bodybuilding. Additionally, I find AI and Machine Learning fascinating, and I enjoy learning about these topics.
+I come from Poland. Currently, I'm a student of Computer Science at Lodz University of Technology, where I'm following my passion for technology and its applications. I'm very interested in exploring new technologies, especially things like wearables and the Internet of Things (IoT). Besides technology, I'm also enthusiastic about promoting a healthy lifestyle and I have a strong interest in bodybuilding. Additionally, I find AI and Machine Learning fascinating, and I enjoy learning about these topics.
 
 ## 🌱 Currently Learning
 
